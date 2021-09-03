@@ -1,2 +1,4 @@
 # tutorialGrafkom
 Tutor
+
+push pertama
